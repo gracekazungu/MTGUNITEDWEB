@@ -24,8 +24,8 @@ border-radius: 15%;
 .content1{
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
   margin-left: 1%;
+  gap: 60px;
 }
 
 span{
