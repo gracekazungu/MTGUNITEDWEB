@@ -10,13 +10,17 @@
 body{background-image: url(/images/teamooooo.jpg);
     background-attachment: fixed;
     background-size: cover;
-    background-repeat: no-repeat;}
+    background-repeat: no-repeat;
+    
+   
+  }
 
 
 .intro{
   text-align: center;
   flex-wrap: wrap;
   font-size: 180%;
+  
 }
 span{
   color: rgb(28, 32, 211);

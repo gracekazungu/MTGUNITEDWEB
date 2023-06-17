@@ -113,6 +113,9 @@ span{
 .img23:hover {
   content: url("/images/winniemac4.jpg");
 }
+.img24:hover {
+  content: url("/images/mgenimac1.jpg");
+}
   @keyframes bounce{
     0%{
       transform: translateY(0);
